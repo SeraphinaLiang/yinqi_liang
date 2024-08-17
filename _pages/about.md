@@ -9,7 +9,7 @@ redirect_from:
 Who am I ?
 ======
 
-I am Liang Yinqi (梁茵琪), from Shenzhen, Guangdong, China. I usually go ballet studios, arts museums, theatre and opera after work hours.
+I am Liang Yinqi (梁茵琪), from Shenzhen, China. I usually go ballet studios, sport centres, arts museums and theatres after work hours. Also, I love traveling and have been to more than ten countries in Europe and Asia.
 
 Education
 ======
@@ -28,20 +28,16 @@ Work experience
   * Software Engineer Intern
   * Jul 2022 - Aug 2022
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+
+Interests
+======
+* Blockchain and smart contracts
+* ---
   
   
 Teaching
