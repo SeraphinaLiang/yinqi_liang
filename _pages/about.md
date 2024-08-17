@@ -6,10 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
+Who am I ?
 ======
 
-I am Liang Yinqi (梁茵琪), from China. I usually go ballet studios, arts museums, theatre and opera after work hours.
+I am Liang Yinqi (梁茵琪), from Shenzhen, Guangdong, China. I usually go ballet studios, arts museums, theatre and opera after work hours.
 
 Education
 ======
