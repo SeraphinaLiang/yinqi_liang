@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yin-Qi Liang"
+  name             : "Liang Yinqi"
   pronouns         : "she"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hi"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/yinqi-liang-16134b14b/"
+  linkedin         : "https://www.linkedin.com/in/yankei-leung/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

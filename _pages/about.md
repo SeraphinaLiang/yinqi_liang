@@ -9,7 +9,7 @@ redirect_from:
 Who am I ?
 ======
 
-I am Liang Yinqi (梁茵琪), from Shenzhen, China. I usually go ballet studios, sport centres, arts museums and theatres after work hours. Also, I love traveling and have been to more than ten countries in Europe and Asia.
+I am Liang Yinqi (梁茵琪), from Shenzhen, China.
 
 Education
 ======
@@ -34,15 +34,16 @@ Work experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-Interests
+Research Areas
 ======
-* Blockchain and smart contracts
+* ---
 * ---
   
-  
+<!--   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+ -->
